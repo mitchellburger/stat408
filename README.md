@@ -1,3 +1,3 @@
 # stat408
 
-- Comments From RStudio
+- Comments From RStudio.
