@@ -1,5 +1,5 @@
 # stat408
 
-- Comments From RStudio
+- Comments From RStudio.
 
-- Comments from  GitHub
+- Comments from  GitHub.
